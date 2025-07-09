@@ -2,7 +2,7 @@
 
 A user-friendly tool for viewing, exploring, and formatting JSON data right in your browser. No installation needed - just open the app and start working with your JSON.
 
-![JSON Smart Viewer Logo](/public/jsv.svg)
+![JSON Smart Viewer Logo](/jsv.svg)
 
 ## What You Can Do
 
